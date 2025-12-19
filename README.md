@@ -28,7 +28,7 @@ O foco principal não foi escalabilidade ou segurança avançada, mas sim **comp
 ---
 ## 📸 Preview
 
-![Preview da landing page MCP](./src/Animação.gif)
+![Preview da landing page MCP](./Animação.gif)
 ---
 
 ## 🛠️ Tecnologias utilizadas
