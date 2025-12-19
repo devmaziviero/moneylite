@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "ExcaliFont";
+    src: url("fonts/Excalifont-Regular.woff2") format("woff2")
+}
+
+* {
+    font-family: "ExcaliFont";
+}
